@@ -28,6 +28,7 @@ This printer makes use of a number of mods, as listed below.
 # Other Misc Features
 - [Git backup](https://github.com/th33xitus/kiauh/wiki/How-to-autocommit-config-changes-to-github%3F) - using [SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh) authentication
 - [lcd_tweaks.cfg](https://github.com/VoronDesign/Voron-Documentation/blob/4a825a8704a3c8467606f58fb45ac4c377779842/community/howto/alchemyEngine/lcd_tweaks.cfg)  
+- [gcode_shell_command klipper extension](https://github.com/th33xitus/kiauh/blob/f231fa9c69191f23277b4e3319f6b675bfa0ee42/resources/gcode_shell_command.py) - allows you to use a gcode macro to run shell commands. I use this to trigger automatic git backups to this repo.
 
 # Links
 [Voron User Mods](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods)  
